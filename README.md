@@ -1,3 +1,3 @@
 # helloworld
 where I add ideas/resources
-coder :) 
+ Being coder :) 
